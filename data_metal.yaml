@@ -1,0 +1,10 @@
+# data_metal.yaml
+path: /home/senfio/Downloads/Projeto_Reciclagem/dataset_recicle
+
+train: images/train
+val: images/val
+
+nc: 2
+names:
+  0: "no_stack"
+  1: "stack"
